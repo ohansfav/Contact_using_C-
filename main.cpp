@@ -3,6 +3,7 @@
 
 using namespace std;
 
+//function 
 void addContact(){
     int nam;
     char nom[20];
